@@ -48,14 +48,7 @@ This project performs sentiment analysis on Twitter data related to major US air
 
 ---
 
-## 📈 Results
 
-- Best-performing model: **[Mention best model here]**
-- Accuracy: **[Add actual accuracy]**
-- Most negative sentiment observed in: **United Airlines**
-- Most positive sentiment observed in: **Virgin America**
-
----
 
 ## 👤 Author
 
